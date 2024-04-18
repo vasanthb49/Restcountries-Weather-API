@@ -1,0 +1,53 @@
+
+    .lablCntHeader {
+      color: white;
+      background: black;
+      text-align: center;
+      font-weight: 500;
+      font-size: 20px;
+    }
+   
+    .p-8 {
+      padding: 7%;
+      padding-bottom: 0;
+    }
+   
+    .bg-grad {
+      background: rgb(2, 0, 36);
+      background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 0%, rgba(0, 212, 255, 1) 100%);
+    }
+   
+    .lblDetails {
+      color: white !important;
+      text-align: center;
+    }
+   
+    .dvbtn {
+      justify-content: center;
+      display: flex;
+      margin-top: 3px;
+      cursor: pointer;
+    }
+   
+    .lblbtn:hover {
+      background-color: black;
+    }
+   
+    .lblbtn {
+      font-size: 14px;
+      padding: 2%;
+      border: 2px solid white;
+      width: 136px;
+      text-align: center;
+      border-radius: 9px;
+    }
+   
+    .resulediv {
+      background: #0e0f0e;
+      color: white;
+      background-color: rgb(5 10 8 / 40%);
+      text-align: center;
+      padding: 3%;
+      font-weight: 500;
+    }
+ 
